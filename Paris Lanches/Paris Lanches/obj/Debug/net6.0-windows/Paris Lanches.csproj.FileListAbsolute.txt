@@ -1,0 +1,50 @@
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Paris Lanches.exe
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Paris Lanches.deps.json
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Paris Lanches.runtimeconfig.json
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Paris Lanches.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Paris Lanches.pdb
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.csproj.AssemblyReference.cache
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.csproj.GenerateResource.cache
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.AssemblyInfoInputs.cache
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.AssemblyInfo.cs
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.csproj.CoreCompileInputs.cache
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.csproj.CopyComplete
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\refint\Paris Lanches.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.pdb
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris Lanches.genruntimeconfig.cache
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\ref\Paris Lanches.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris_Lanches.Properties.Resources.resources
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris_Lanches.Principal.resources
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris_Lanches.frm_login.resources
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gaias\source\repos\Paris Lanches\Paris Lanches\obj\Debug\net6.0-windows\Paris_Lanches.cadfuncionario.resources
